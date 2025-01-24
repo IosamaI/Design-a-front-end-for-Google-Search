@@ -1,0 +1,130 @@
+.link{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    
+}
+
+.link-it{
+    margin: 10px;
+    
+
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:active{
+    color: BLUE;
+}
+
+#google{
+    display:flex;
+    justify-content:end;
+    color: black;
+}
+
+.google{
+    display: flex;
+    justify-content: center;
+}
+.Q{
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: calc(632px + 6px);
+    width: 584px;
+    max-width: 584px;
+    margin-top: 30px;
+}
+
+.bu{
+    
+        background-color: #f8f9fa;
+        border: 1px solid #f8f9fa;
+        border-radius: 4px;
+        color: #3c4043;
+        font-family: Arial, Noto Naskh Arabic UI, sans-serif;
+        font-size: 14px;
+        margin: 11px 4px;
+        padding: 0 16px;
+        line-height: 27px;
+        height: 36px;
+        min-width: 54px;
+        text-align: center;
+        cursor: pointer;
+        user-select: none;
+
+}
+.h1-Adv{
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+.line{
+    border-bottom: 1px solid #ebebeb;
+}
+.find{
+    margin: 50px;
+    font-size: 16px;
+    color: #333337; 
+}
+.fi{
+    color: #595c60;  
+    
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+   
+}
+.input{
+    display: flex;
+    border-radius: 10px;
+    border: 1px solid #dfe1e5;
+    width: 400px;
+    margin: 10px;
+    padding: 3px 8px;
+    margin-left: 50px;
+    justify-content: center;
+    text-align: center;
+    
+   
+
+    
+}
+.btn-adi{
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed; 
+    color: #fff;
+    margin: 10px;
+    padding: 8px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    
+
+}
+.btn-div{
+    display: flex;
+    justify-content: flex-end;
+    width: 475px;
+    margin-top: 30px;
+    
+}
